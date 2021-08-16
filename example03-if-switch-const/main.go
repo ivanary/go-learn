@@ -67,4 +67,3 @@ func main() {
 	fmt.Println(stringSlice2[7])
 	fmt.Println(stringSlice2[8])
 }
-
